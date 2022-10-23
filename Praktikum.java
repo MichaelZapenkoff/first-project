@@ -1,1 +1,3 @@
-מאמ
+public static void mainmain(String[] args) {
+
+}
